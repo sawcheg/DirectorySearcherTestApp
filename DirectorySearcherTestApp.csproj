@@ -70,7 +70,6 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="ISearchView.cs" />
-    <Compile Include="Models\QueueDirectory.cs" />
     <Compile Include="Models\ResultNode.cs" />
     <Compile Include="Helpers\NativeMethods.cs" />
     <Compile Include="Program.cs" />
